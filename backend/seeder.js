@@ -1,4 +1,5 @@
 /* Seperate script to clear/import into the database */
+/* DO NOT RUN ONCE PROJECT IS UP AND RUNNING, WILL FUCK EVERYTHING. PROBABLY SHOULD DELETE THIS LATER */
 
 import mongoose from 'mongoose'
 import dotenv from 'dotenv'
